@@ -18,9 +18,6 @@ Implemented interfaces:
 
 ```bash
 dotnet add package PLC.Shared.DistributedConcurrentDictionary
-dotnet add package ZiggyCreatures.FusionCache
-dotnet add package RedLock.net
-dotnet add package StackExchange.Redis
 ```
 
 ## Quick Start

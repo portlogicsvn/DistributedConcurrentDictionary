@@ -9,6 +9,9 @@
     <Authors>PORTLOGICS</Authors>
     <PackageTags>FusionCache;RedLock;Redis;Distributed;Dictionary;IDictionary</PackageTags>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/portlogicsvn/FusionCacheRedLockDictionary</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/portlogicsvn/FusionCacheRedLockDictionary.git</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <NoWarn>$(NoWarn);1591</NoWarn>
