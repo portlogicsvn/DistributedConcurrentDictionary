@@ -9,7 +9,7 @@
 
 ## Requirements
 
-- [.NET 10 SDK](https://dotnet.microsoft.com/download)
+- [.NET SDK](https://dotnet.microsoft.com/download): **8.0**, **9.0**, or **10.0** (library multi-targets `net8.0`, `net9.0`, `net10.0`; sample app targets `net10.0`)
 - **Redis** for integration tests, the sample app, and E2E (e.g. `localhost:6379`)
 
 ## Repository layout

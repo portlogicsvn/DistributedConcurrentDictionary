@@ -1,5 +1,7 @@
 # PLC.DistributedDictionary (NuGet) / `PLC.Shared.DistributedConcurrentDictionary` (namespace)
 
+**Target frameworks:** `net8.0`, `net9.0`, `net10.0` (one assembly per TFM in the NuGet package).
+
 Distributed dictionary for .NET, backed by:
 
 - `ZiggyCreatures.FusionCache` for fast L1/L2 cache reads
